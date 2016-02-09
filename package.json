@@ -1,0 +1,29 @@
+{
+  "name": "ngAnimate-animate.css",
+  "version": "0.1.1",
+  "description": "A driver module to make animate.css work with AngularJS 1.2",
+  "main": "animate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinok/ngAnimate-animate.css.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Matias Niemelä",
+    "email": "matias@yearofmoo.com",
+    "url": "http://www.yearofmoo.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hinok/ngAnimate-animate.css/issues"
+  },
+  "homepage": "https://github.com/hinok/ngAnimate-animate.css#readme",
+  "dependencies": {
+    "angular": "^1.4.9",
+    "angular-animate": "^1.4.9",
+    "animate.css": "^3.5.1"
+  }
+}
